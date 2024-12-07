@@ -32,6 +32,6 @@
             </ListView.ItemTemplate>
         </ListView>
         <Button Text="Add/Choose Item to buy" MaximumWidthRequest="300" Clicked="OnChooseButtonClicked"/>
-        <Button Text="Delete Item" MaximumWidthRequest="200" Clicked="OnDeleteItemClicked" />
+        <Button Text="Delete Item" MaximumWidthRequest="200" Margin="10" Clicked="OnDeleteItemClicked" />
     </StackLayout>
 </ContentPage>
